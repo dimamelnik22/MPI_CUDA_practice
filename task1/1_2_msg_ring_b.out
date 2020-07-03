@@ -1,0 +1,8 @@
+Process 0 received message "-7" from process 7 and sent "0" to process 1
+Process 1 received message "0" from process 0 and sent "-1" to process 2
+Process 2 received message "-1" from process 1 and sent "-2" to process 3
+Process 3 received message "-2" from process 2 and sent "-3" to process 4
+Process 4 received message "-3" from process 3 and sent "-4" to process 5
+Process 5 received message "-4" from process 4 and sent "-5" to process 6
+Process 7 received message "-6" from process 6 and sent "-7" to process 0
+Process 6 received message "-5" from process 5 and sent "-6" to process 7

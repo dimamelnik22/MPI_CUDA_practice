@@ -1,0 +1,168 @@
+Process 6 sent message "60" to process 0
+Process 6 sent message "61" to process 1
+Process 0 sent message "1" to process 1
+Process 0 sent message "2" to process 2
+Process 0 sent message "3" to process 3
+Process 0 sent message "4" to process 4
+Process 0 sent message "5" to process 5
+Process 0 sent message "6" to process 6
+Process 0 sent message "7" to process 7
+Process 6 sent message "62" to process 2
+Process 6 sent message "63" to process 3
+Process 6 sent message "64" to process 4
+Process 3 sent message "30" to process 0
+Process 3 sent message "31" to process 1
+Process 3 sent message "32" to process 2
+Process 3 sent message "34" to process 4
+Process 3 sent message "35" to process 5
+Process 3 sent message "36" to process 6
+Process 6 sent message "65" to process 5
+Process 0 received message "60" from process 6 and sent back "-60"
+Process 0 received message "20" from process 2 and sent back "-20"
+Process 2 sent message "20" to process 0
+Process 2 sent message "21" to process 1
+Process 2 sent message "23" to process 3
+Process 2 sent message "24" to process 4
+Process 2 sent message "25" to process 5
+Process 2 sent message "26" to process 6
+Process 2 sent message "27" to process 7
+Process 3 sent message "37" to process 7
+Process 3 received message "3" from process 0 and sent back "-3"
+Process 3 received message "23" from process 2 and sent back "-23"
+Process 7 sent message "70" to process 0
+Process 7 sent message "71" to process 1
+Process 7 sent message "72" to process 2
+Process 7 sent message "73" to process 3
+Process 7 sent message "74" to process 4
+Process 7 sent message "75" to process 5
+Process 7 sent message "76" to process 6
+Process 3 received message "63" from process 6 and sent back "-63"
+Process 7 received message "7" from process 0 and sent back "-7"
+Process 7 received message "27" from process 2 and sent back "-27"
+Process 7 received message "37" from process 3 and sent back "-37"
+Process 7 received back message "-70" from process 0
+Process 7 received message "67" from process 6 and sent back "-67"
+Process 0 received message "30" from process 3 and sent back "-30"
+Process 0 received message "70" from process 7 and sent back "-70"
+Process 0 received back message "-3" from process 3
+Process 3 received message "73" from process 7 and sent back "-73"
+Process 3 received back message "-30" from process 0
+Process 3 received back message "-37" from process 7
+Process 3 received back message "-36" from process 6
+Process 3 received back message "-32" from process 2
+Process 6 sent message "67" to process 7
+Process 6 received message "6" from process 0 and sent back "-6"
+Process 6 received message "26" from process 2 and sent back "-26"
+Process 6 received message "36" from process 3 and sent back "-36"
+Process 6 received message "76" from process 7 and sent back "-76"
+Process 6 received back message "-60" from process 0
+Process 6 received back message "-67" from process 7
+Process 6 received back message "-63" from process 3
+Process 6 received back message "-62" from process 2
+Process 7 received back message "-73" from process 3
+Process 7 received back message "-76" from process 6
+Process 7 received back message "-72" from process 2
+Process 2 received message "2" from process 0 and sent back "-2"
+Process 2 received message "32" from process 3 and sent back "-32"
+Process 2 received message "62" from process 6 and sent back "-62"
+Process 2 received message "72" from process 7 and sent back "-72"
+Process 2 received back message "-20" from process 0
+Process 2 received back message "-23" from process 3
+Process 2 received back message "-26" from process 6
+Process 2 received back message "-27" from process 7
+Process 2 received message "12" from process 1 and sent back "-12"
+Process 3 received message "13" from process 1 and sent back "-13"
+Process 1 sent message "10" to process 0
+Process 1 sent message "12" to process 2
+Process 1 sent message "13" to process 3
+Process 1 sent message "14" to process 4
+Process 1 sent message "15" to process 5
+Process 1 sent message "16" to process 6
+Process 6 received message "16" from process 1 and sent back "-16"
+Process 1 sent message "17" to process 7
+Process 7 received message "17" from process 1 and sent back "-17"
+Process 0 received back message "-7" from process 7
+Process 0 received back message "-6" from process 6
+Process 0 received message "10" from process 1 and sent back "-10"
+Process 0 received back message "-2" from process 2
+Process 1 received message "1" from process 0 and sent back "-1"
+Process 0 received back message "-1" from process 1
+Process 7 received back message "-71" from process 1
+Process 1 received message "21" from process 2 and sent back "-21"
+Process 1 received message "31" from process 3 and sent back "-31"
+Process 1 received message "61" from process 6 and sent back "-61"
+Process 1 received message "71" from process 7 and sent back "-71"
+Process 1 received back message "-10" from process 0
+Process 1 received back message "-12" from process 2
+Process 1 received back message "-13" from process 3
+Process 1 received back message "-16" from process 6
+Process 1 received back message "-17" from process 7
+Process 2 received back message "-21" from process 1
+Process 3 received back message "-31" from process 1
+Process 6 received back message "-61" from process 1
+Process 5 sent message "50" to process 0
+Process 0 received message "50" from process 5 and sent back "-50"
+Process 6 received message "56" from process 5 and sent back "-56"
+Process 5 sent message "51" to process 1
+Process 5 sent message "52" to process 2
+Process 5 sent message "53" to process 3
+Process 5 sent message "54" to process 4
+Process 5 sent message "56" to process 6
+Process 5 sent message "57" to process 7
+Process 5 received message "15" from process 1 and sent back "-15"
+Process 5 received message "25" from process 2 and sent back "-25"
+Process 2 received message "52" from process 5 and sent back "-52"
+Process 2 received back message "-25" from process 5
+Process 3 received message "53" from process 5 and sent back "-53"
+Process 3 received back message "-35" from process 5
+Process 7 received message "57" from process 5 and sent back "-57"
+Process 7 received back message "-75" from process 5
+Process 6 received back message "-65" from process 5
+Process 5 received message "35" from process 3 and sent back "-35"
+Process 5 received message "65" from process 6 and sent back "-65"
+Process 5 received message "75" from process 7 and sent back "-75"
+Process 5 received message "5" from process 0 and sent back "-5"
+Process 5 received back message "-52" from process 2
+Process 5 received back message "-53" from process 3
+Process 5 received back message "-56" from process 6
+Process 5 received back message "-57" from process 7
+Process 5 received back message "-50" from process 0
+Process 0 received back message "-5" from process 5
+Process 1 received message "51" from process 5 and sent back "-51"
+Process 1 received back message "-15" from process 5
+Process 5 received back message "-51" from process 1
+Process 4 sent message "40" to process 0
+Process 4 sent message "41" to process 1
+Process 4 sent message "42" to process 2
+Process 3 received message "43" from process 4 and sent back "-43"
+Process 5 received message "45" from process 4 and sent back "-45"
+Process 4 sent message "43" to process 3
+Process 4 sent message "45" to process 5
+Process 4 sent message "46" to process 6
+Process 4 sent message "47" to process 7
+Process 6 received message "46" from process 4 and sent back "-46"
+Process 7 received message "47" from process 4 and sent back "-47"
+Process 1 received message "41" from process 4 and sent back "-41"
+Process 1 received back message "-14" from process 4
+Process 7 received back message "-74" from process 4
+Process 4 received message "4" from process 0 and sent back "-4"
+Process 4 received message "14" from process 1 and sent back "-14"
+Process 4 received message "24" from process 2 and sent back "-24"
+Process 4 received message "34" from process 3 and sent back "-34"
+Process 4 received message "54" from process 5 and sent back "-54"
+Process 4 received message "64" from process 6 and sent back "-64"
+Process 4 received message "74" from process 7 and sent back "-74"
+Process 4 received back message "-41" from process 1
+Process 4 received back message "-43" from process 3
+Process 4 received back message "-45" from process 5
+Process 4 received back message "-47" from process 7
+Process 5 received back message "-54" from process 4
+Process 3 received back message "-34" from process 4
+Process 4 received back message "-40" from process 0
+Process 0 received message "40" from process 4 and sent back "-40"
+Process 0 received back message "-4" from process 4
+Process 4 received back message "-46" from process 6
+Process 6 received back message "-64" from process 4
+Process 2 received message "42" from process 4 and sent back "-42"
+Process 2 received back message "-24" from process 4
+Process 4 received back message "-42" from process 2

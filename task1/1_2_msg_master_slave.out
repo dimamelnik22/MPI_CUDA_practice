@@ -1,0 +1,21 @@
+Process 4 received message "-4" from process 0 and sent  back "4"
+Process 3 received message "-3" from process 0 and sent  back "3"
+Process 5 received message "-5" from process 0 and sent  back "5"
+Process 6 received message "-6" from process 0 and sent  back "6"
+Process 7 received message "-7" from process 0 and sent  back "7"
+Process 1 received message "-1" from process 0 and sent  back "1"
+Process 2 received message "-2" from process 0 and sent  back "2"
+Process 0 received message "4" from process 4
+Recieved 1 messages. 6 messages left
+Process 0 received message "1" from process 1
+Recieved 2 messages. 5 messages left
+Process 0 received message "2" from process 2
+Recieved 3 messages. 4 messages left
+Process 0 received message "3" from process 3
+Recieved 4 messages. 3 messages left
+Process 0 received message "5" from process 5
+Recieved 5 messages. 2 messages left
+Process 0 received message "6" from process 6
+Recieved 6 messages. 1 messages left
+Process 0 received message "7" from process 7
+Recieved 7 messages. 0 messages left
